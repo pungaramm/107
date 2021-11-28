@@ -1,7 +1,9 @@
 # Digital Profile
 <img src="https://cdn.discordapp.com/attachments/876483139814432808/914501791448723466/32852841_1761107340650795_1374440820924481536_n.png" width="300" height="250">
 
-ศิวกร แก้ววิชัย&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Siwakorn Kaewwichai
+ศิวกร แก้ววิชัย 
+
+Siwakorn Kaewwichai
 
 คณะสหวิทยาการ สาขาวิทยาศาสตร์และนวัตกรรม
 
@@ -26,7 +28,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/794121381624676363/914576972468854834/258230187_500760397661393_1071504143400581016_n.png" width="500" height="300">
 
--เข้าร่วมกิจกรรมค่ายบูรณการณ์ห้องเรียนพิเศษ(Gifted)
+-เข้าร่วมกิจกรรมค่ายบูรณาการห้องเรียนพิเศษ(Gifted)
 
 <img src="https://cdn.discordapp.com/attachments/794121381624676363/914577659676217404/259122492_1024427328414561_9193929023679188619_n.png" width="350" height="200">
 
